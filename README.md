@@ -1,4 +1,4 @@
-### Revealing the draft genome sequence *Paenibacillus* sp. tbif-049 a non-rhizobial endophyte from *Trifolium bifidum* located in Bodega Bay, California  (*Vigna unguiculata*).
+### Revealing the draft genome sequence *Paenibacillus* sp. tbif-049 a non-rhizobial endophyte from *Trifolium bifidum* located in Bodega Bay, California.
 
 Manuscript is currently in process
 
